@@ -77,7 +77,7 @@ Web & mobile application for restaurants to manage recipes, track costs, and ens
 - Improved usability for web and mobile platforms based on user feedback.
 
 **Tech:** 
-React, React Native, Node.js, PostgreSQL  
+React, Next.js, Node.js, PostgreSQL  
 **GitHub:** [Repo](https://github.com/kankan70717/recipal)
 
 ## 📫 Contact
