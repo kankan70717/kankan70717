@@ -1,9 +1,9 @@
 # Hi, I'm Kanta Nagai 👋  
 Full Stack Developer based in Canada 🇨🇦  
 
-## 💼 Experience & Background
-Previously, I contributed to the successful carrier certification of 4G/5G devices by analyzing complex embedded code and system logs.  
-I’m eager to apply these problem-solving and debugging skills to building reliable and user-friendly web and mobile applications in an entry-level role.
+## 💼 About Me
+- Previously contributed to the successful carrier certification of 4G/5G devices by analyzing complex embedded code and system logs
+- Eager to apply problem-solving and debugging skills to building reliable and user-friendly web & mobile applications
 
 ## 🛠 Technical Skills
 
