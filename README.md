@@ -34,3 +34,6 @@ Ruby on Rails, GraphQL, AWS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
 </p>
+
+## 📫 Contact
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/kanta-nagai" target="_blank">https://www.linkedin.com/in/kanta-nagai</a>
